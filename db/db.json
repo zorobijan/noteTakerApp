@@ -2,5 +2,9 @@
     {
         "title":"Test Title",
         "text":"Test text"
+    },
+    {
+        "title":"Laundry",
+        "text":"Wash, DO NOT DRY, must be hung up"
     }
 ]
